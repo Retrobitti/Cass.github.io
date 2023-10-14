@@ -1,7 +1,7 @@
+{: style="background-color:#333;color:#fff;"}
 # Hi, I'm Cass
 
 ![Pic of me](image_2023-10-14_162454125.png)
-
 ## About Me
 
 I'm a computer engineering student at Oulu university of applied sciences. I love coding and on my free time I work on game development projects. I am already working on my personal web page/portfolio so I won't be updating this one. I only created this for an exercise.    
